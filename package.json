@@ -1,0 +1,12 @@
+{
+  "name": "codestat",
+  "version": "1.1.0",
+  "description": "",
+  "main": "bin.js",
+  "bin": {
+    "codestat": "./bin.js"
+  },
+  "keywords": ["code", "codestat", "lines", "files"],
+  "author": "Jesus Luna",
+  "license": "MIT"
+}
